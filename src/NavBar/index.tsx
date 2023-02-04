@@ -43,7 +43,8 @@ const NavBar = ({ isOpen, setIsOpen, openWidth, closedWidth }: Props) => {
     const window = e.currentTarget as Window;
     const currentPosition = window.scrollY;
 
-    const possibleItems = items.filter(item => item.position <= currentPosition);
+    // +1 for looser checking
+    const possibleItems = items.filter(item => item.position <= currentPosition + 1);
     const currentItem = possibleItems.reduce(
       (curr, next) => next.position >= curr.position ? next : curr,
       {
@@ -76,7 +77,7 @@ const NavBar = ({ isOpen, setIsOpen, openWidth, closedWidth }: Props) => {
     return () => {
       window.removeEventListener('scroll', e => onScroll(e, positions));
     };
-  })
+  });
 
   return (
     <Drawer 

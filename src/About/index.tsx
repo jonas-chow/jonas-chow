@@ -11,13 +11,13 @@ const About = () => {
           <Box>
             <Avatar sx={{ width: 388, height: 388 }} src={IMAGES["self"]} />
             <Box sx={{ display: "flex", justifyContent: "center" }}>
-              <IconButton>
+            <IconButton href="https://github.com/jonas-chow" target="_blank" rel="noreferrer noopener">
                 <GitHubIcon fontSize='large' color="primary" /> 
               </IconButton>
-              <IconButton>
+              <IconButton href="https://www.linkedin.com/in/jonas-chow-bb7a9a227/" target="_blank" rel="noreferrer noopener">
                 <LinkedInIcon fontSize='large' color="primary" /> 
               </IconButton>
-              <IconButton>
+              <IconButton href="mailto:jonaschow99@gmail.com" target="_blank" rel="noreferrer noopener">
                 <EmailIcon fontSize='large' color="primary" /> 
               </IconButton>
             </Box>
