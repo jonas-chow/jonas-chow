@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.2f4d40fe.js",
+    "main.js": "/static/js/main.609cb7f3.js",
     "static/media/sicarius.png": "/static/media/sicarius.553034a0e1f778946083.png",
     "static/media/uma-utils.png": "/static/media/uma-utils.1a2da758cb7384221962.png",
     "static/media/gamecraft.png": "/static/media/gamecraft.05d1217918670ab40ef0.png",
     "static/media/self.png": "/static/media/self.83b771d8fe0964753af7.png",
+    "static/media/cs4243.png": "/static/media/cs4243.46ef583a840e1600a58f.png",
     "static/media/source-control.png": "/static/media/source-control.a9ff146ff686624108bd.png",
     "static/media/mayabot.png": "/static/media/mayabot.fc06d68d9982af9d4f10.png",
     "static/media/shopee.png": "/static/media/shopee.d23ede466a0d0aee6740.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.2f4d40fe.js.map": "/static/js/main.2f4d40fe.js.map"
+    "main.609cb7f3.js.map": "/static/js/main.609cb7f3.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2f4d40fe.js"
+    "static/js/main.609cb7f3.js"
   ]
 }
