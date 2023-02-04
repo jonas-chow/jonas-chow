@@ -12,6 +12,12 @@ const projects: ThumbnailProps[] = [
     description: "A website for NUSGDG's annual gamejam. Users can register for an account, attend events, and submit their game.",
   },
   {
+    title: "Threat Detection",
+    thumbnailPath: IMAGES["cs4243"],
+    githubLink: "https://github.com/jonas-chow/cs4243-mini-project",
+    description: "A project done for a Computer Vision module. Used OpenCV and Pytorch to detect the threat level of a person in the image. Worked on background removal among other techniques.",
+  },
+  {
     title: "Source Academy Achievements System",
     thumbnailPath: IMAGES["source-academy"],
     link: "https://sourceacademy.org/",
@@ -29,12 +35,6 @@ const projects: ThumbnailProps[] = [
     thumbnailPath: IMAGES["sicarius"],
     githubLink: "https://github.com/jonas-chow/orbital-jcyf",
     description: "Turn-based multiplayer game where players try to perform as many actions per turn to defeat the enemy first.",
-  },
-  {
-    title: "umabot",
-    thumbnailPath: IMAGES["mayabot"],
-    githubLink: "https://github.com/jonas-chow/umabot",
-    description: "Discord bot to calculate the amount of stamina needed for any particular race in the popular game 'Uma Musume'",
   },
   {
     title: "Source Control",

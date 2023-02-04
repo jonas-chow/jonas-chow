@@ -2,6 +2,7 @@ const IMAGES: Record<string, string> = {
     "self": require("./images/self.png"),
 
     // Projects
+    "cs4243": require("./images/cs4243.png"),
     "mayabot": require("./images/mayabot.png"),
     "uma-utils": require("./images/uma-utils.png"),
     "sicarius": require("./images/sicarius.png"),
