@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.c236f5a5.js",
+    "main.js": "/static/js/main.2f4d40fe.js",
     "static/media/sicarius.png": "/static/media/sicarius.553034a0e1f778946083.png",
     "static/media/uma-utils.png": "/static/media/uma-utils.1a2da758cb7384221962.png",
     "static/media/gamecraft.png": "/static/media/gamecraft.05d1217918670ab40ef0.png",
@@ -11,10 +11,10 @@
     "static/media/shopee.png": "/static/media/shopee.d23ede466a0d0aee6740.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.c236f5a5.js.map": "/static/js/main.c236f5a5.js.map"
+    "main.2f4d40fe.js.map": "/static/js/main.2f4d40fe.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c236f5a5.js"
+    "static/js/main.2f4d40fe.js"
   ]
 }
