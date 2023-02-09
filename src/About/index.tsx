@@ -30,7 +30,7 @@ const About = () => {
               Jonas Chow
             </Typography>
             <Typography variant='h2' color='textPrimary'>
-              Web Developer
+              Software Engineer
             </Typography>
             <Typography variant='h3'>
               Highly driven Year 3 Computer Science undergraduate from the National University of Singapore (NUS) looking for a minimum 3-month long internship from May 2023, and hopefully be able to convert it to a full-time position after graduating. Interested in a wide range of topics including Computer Vision, Computer Graphics, and AI.
